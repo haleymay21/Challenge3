@@ -6,7 +6,7 @@ I was given an HTML and CSS code that created the layout of a random password ge
 
 ### Links
 
-Deployed Site URL: []
+Deployed Site URL: [https://haleymay21.github.io/Challenge3/]
 
 #### Screenshot
 
